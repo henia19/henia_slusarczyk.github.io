@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>Moja pierwsza strona</title>
+<meta charset="utf-8"/>
+<meta name="autor" content="Kowalski"/>
+<meta name="keywords" content="sztuka, malarstwo"/>
+</head>
+<body>
+<h1>ŚWIATOWE DZIEŁA SZTUKI</h1>
+<h6>DZIEŁA SZTUKI ANTYCZNEJ</h6>
+<p>Do tego okresu..........<br/> Mamy na myśli....................</p>
+<h2> Dzieła sztuki współczesnej: </h2>
+</body>
+</html>
